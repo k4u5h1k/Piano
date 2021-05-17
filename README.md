@@ -1,5 +1,5 @@
 # Piano
-An electron Piano app.
+An electron Piano.
 
 # Usage
 Run `npm install .` then `npm start` to run.
