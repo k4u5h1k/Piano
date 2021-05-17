@@ -1,3 +1,2 @@
 # Piano
-
-https://mrtoxicity.github.io/Piano/
+An electron Piano app.
