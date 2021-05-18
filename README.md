@@ -1,5 +1,5 @@
 # Piano
-An electron Piano.
+A lightweight electron Piano.
 
 # Usage
 Run `npm install .` then `npm start` to run.
